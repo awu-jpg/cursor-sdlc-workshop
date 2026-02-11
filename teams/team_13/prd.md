@@ -6,11 +6,16 @@
 
 ## Project Overview
 
-**Project Name:** Whack-a-Mole
+**Project Name:** FreshFind
 
-**One-line Description:** Click the moles before they disappear to rack up points.
+**One-line Description:** A farmers' market directory where you can browse markets, see vendors, view photos, and leave reviews.
 
-**Type:** Web App (React + Vite)
+**Type:** Web App (React, frontend-only)
+**Project Name:** Cursor SDLC Board
+
+**One-line Description:** A simple visual board that shows the six SDLC stages (Plan → Design → Develop → Test → Review → Deploy) and where Cursor helps at each step.
+
+**Type:** Web App (React, single page)
 
 ---
 
